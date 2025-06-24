@@ -29,7 +29,7 @@
       "name": "Paris Saint-Germain",
       "country": "Francia",
       "league": "Ligue 1",
-      "logo": "https://logos-world.net/wp-content/uploads/2020/06/Paris-Saint-Germain-Logo.png", 
+      "logo": "https://th.bing.com/th/id/R.46c1762b6767342d288968e5d2695849?rik=FwdpmIHoHGnwiQ&pid=ImgRaw&r=0", 
       "colors": ["#004170", "#ED1C24"]
     },
     {
@@ -37,7 +37,7 @@
       "name": "Bayern Munich",
       "country": "Alemania",
       "league": "Bundesliga",
-      "logo": "https://logos-world.net/wp-content/uploads/2020/06/Bayern-Munich-Logo.png",
+      "logo": "https://th.bing.com/th/id/OIP.2R3gXnUOyMhpMVzQ8b1vcgHaHa?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "colors": ["#DC052D", "#FFFFFF"]
     },
     {
@@ -45,6 +45,22 @@
       "name": "Liverpool",
       "country": "Inglaterra", 
       "league": "Premier League",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
+      "colors": ["#C8102E", "#00B2A9"]
+    },
+    {
+      "id": 7,
+      "name": "Alianza lima",
+      "country": "Perú", 
+      "league": "Libertadores",
+      "logo": "https://marketing-peru.beglobal.biz/wp-content/uploads/2025/04/logo-alianza-lima.jpg",
+      "colors": ["#C8102E", "#00B2A9"]
+    },
+    {
+      "id": 8,
+      "name": "Sporting Cristal",
+      "country": "Perú", 
+      "league": "Liberatdores",
       "logo": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
       "colors": ["#C8102E", "#00B2A9"]
     }
@@ -86,7 +102,7 @@
       "goals": 21,
       "assists": 11,
       "matches": 38,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/371998-1669664875.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.BxW53KzMtgqgM-DdMLZsygHaHa?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 95,
         "shooting": 82,
@@ -110,7 +126,7 @@
       "goals": 32,
       "assists": 6,
       "matches": 40,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/38253-1635255627.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.QQJneTOUQJq81G-JPP_avQHaE8?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 72,
         "shooting": 96,
@@ -134,7 +150,7 @@
       "goals": 4,
       "assists": 7,
       "matches": 28,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/591568-1635255555.jpg?lm=1",
+      "photo": "https://www.fcbarcelona.com/photo-resources/2022/11/02/a4065cd7-9b67-4073-b957-80679c96e6c0/08-PEDRI.jpg?width=1200&height=750",
       "skills": {
         "pace": 68,
         "shooting": 72,
@@ -158,7 +174,7 @@
       "goals": 38,
       "assists": 5,
       "matches": 41,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/418560-1635255714.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/R.216d1685e0e49da9e8c01229f96b9a04?rik=onpl7tauYRDQOQ&pid=ImgRaw&r=0",
       "skills": {
         "pace": 89,
         "shooting": 95,
@@ -182,7 +198,7 @@
       "goals": 6,
       "assists": 18,
       "matches": 35,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/88755-1635255714.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.ZM2uqhcLP0usMA1_PwvpZAHaEz?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 74,
         "shooting": 86,
@@ -206,7 +222,7 @@
       "goals": 18,
       "assists": 12,
       "matches": 29,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/68290-1635255555.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.rRUeAFiVvSeD6nqCMq1siQHaE8?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 84,
         "shooting": 85,
@@ -230,7 +246,7 @@
       "goals": 16,
       "assists": 14,
       "matches": 32,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/28003-1635255555.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.T0EtsGcQWm_hl83kQEhyaAHaE7?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 78,
         "shooting": 92,
@@ -254,7 +270,7 @@
       "goals": 36,
       "assists": 8,
       "matches": 42,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/132098-1635255714.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/R.41e1487d362ca8dba606f4d7ea9eda26?rik=d2Sr0RT58leUZQ&pid=ImgRaw&r=0",
       "skills": {
         "pace": 78,
         "shooting": 94,
@@ -278,7 +294,7 @@
       "goals": 12,
       "assists": 8,
       "matches": 38,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/580195-1635255714.jpg?lm=1",
+      "photo": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124430.png",
       "skills": {
         "pace": 82,
         "shooting": 79,
@@ -302,7 +318,7 @@
       "goals": 25,
       "assists": 14,
       "matches": 40,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/148455-1635255714.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.i5zHkABFBLZnjehC9yk-rwHaFj?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 88,
         "shooting": 89,
@@ -326,7 +342,7 @@
       "goals": 3,
       "assists": 2,
       "matches": 37,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/139208-1635255714.jpg?lm=1",
+      "photo": "https://th.bing.com/th/id/OIP.3IcAezh96d8Vjm10k8zSLwHaEK?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
       "skills": {
         "pace": 78,
         "shooting": 62,
@@ -337,6 +353,151 @@
       },
       "trophies": ["Liga de Campeones", "Premier League"],
       "description": "Defensa central holandés líder en defensa con gran juego aéreo y pase largo."
+    },
+    {
+      "id": 13,
+      "name": "Paolo Guerrero",
+      "age": 41,
+      "position": "Delantero",
+      "nationality": "Perú",
+      "teamId": 7,
+      "marketValue": 75000,
+      "contractUntil": "2025",
+      "goals": 20,
+      "assists": 18,
+      "matches": 6,  
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBueQgFP7SHbCRE4TOn77KyS2y3v0yH91AQ&s",
+      "skills": {
+        "pace": 75,
+        "shooting": 88,
+        "passing": 80,
+        "dribbling": 70,
+        "defending": 40,
+        "physical": 70
+      },
+      "trophies": ["Ex selección peruana, referencia histórica en Libertadores y mundialistas."],
+      "description": "El Depredador”, leyenda del fútbol sudamericano, con amplio recorrido en Europa y Brasil, volvió en 2024 para cerrar su carrera en el club que lo formó"
+    },
+    {
+      "id": 14,
+      "name": "Jhamir Adrián Huanca",
+      "age": 25,
+      "position": "Extremo",
+      "nationality": "Perú",
+      "teamId": 7,
+      "marketValue": 650000,
+      "contractUntil": "2027",
+      "goals": 0,
+      "assists": 2,
+      "matches": 8,
+      "photo": "https://www.zerozero.pt/img/jogadores/new/31/54/783154_jhamir_d_arrigo_20250204180614.jpg",
+      "skills": {
+        "pace": 80,
+        "shooting": 85,
+        "passing": 88,
+        "dribbling": 70,
+        "defending": 45,
+        "physical": 65
+      },
+      "trophies": ["Liga de libertadores"],
+      "description": "Juvenil con firme ascenso. Llegó en 2024 desde Melgar, destacó por velocidad y su desborde."
+    },
+    {
+      "id": 15,
+      "name": "Kevin Quevedo",
+      "age": 28,
+      "position": "Extremo derecho",
+      "nationality": "Peruano",
+      "teamId": 7,
+      "marketValue": 600000,
+      "contractUntil": "2026",
+      "goals": 4,
+      "assists": 2,
+      "matches": 6,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_rTNB8C4uz9k8Co2zBM_hifCDRQHr6i6Hg&s",
+      "skills": {
+        "pace": 82,
+        "shooting": 86,
+        "passing": 90,
+        "dribbling": 78,
+        "defending": 50,
+        "physical": 68
+      },
+      "trophies": ["Liga de libertadores"],
+      "description": "Fijo en la alineación por su desequilibrio ofensivo. Segundo máximo anotador del equipo en Libertadores (4) y contribuye con asistencias .."
+    },
+
+    {
+      "id": 16,
+      "name": "Martín Andrés Rodríguez",
+      "age": 38,
+      "position": "Extremo",
+      "nationality": "Peruano",
+      "teamId": 8,
+      "marketValue": 25000000,
+      "contractUntil": "2025",
+      "goals": 16,
+      "assists": 14,
+      "matches": 32,
+      "photo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQc5TNyzstdakNPYsGgeMtRZcjbVnSP5Jzs6aJk3zo3ZeH_xEMGHecTmuyunlRCZzp0t0Br1D33QFAIeGLIivSsLrPwadgwblgXFOodQ",
+      "skills": {
+        "pace": 78,
+        "shooting": 92,
+        "passing": 94,
+        "dribbling": 96,
+        "defending": 35,
+        "physical": 65
+      },
+      "trophies": ["Copa del Mundo 2022", "Liga de Campeones", "Balón de Oro"],
+      "description": "Leyenda argentina considerado uno de los mejores jugadores de todos los tiempos."
+    },
+    {
+      "id": 17,
+      "name": "Santiago González Puga",
+      "age": 25,
+      "position": "Extremo",
+      "nationality": "Peruano",
+      "teamId": 8,
+      "marketValue": 25000000,
+      "contractUntil": "2025",
+      "goals": 16,
+      "assists": 14,
+      "matches": 32,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyojICFr6WMvtOLozUXSfC6T0f9rwgciUnPsKuv2fTa3qu8BDW8TIC7iKL7ISsQmQQ0W73U65Dcf154gtzMpGvw",
+      "skills": {
+        "pace": 78,
+        "shooting": 92,
+        "passing": 94,
+        "dribbling": 96,
+        "defending": 35,
+        "physical": 65
+      },
+      "trophies": ["Copa del Mundo 2022", "Liga de Campeones", "Balón de Oro"],
+      "description": "Leyenda argentina considerado uno de los mejores jugadores de todos los tiempos."
+    },
+    {
+      "id": 18,
+      "name": "Gustavo Cazonatti",
+      "age": 37,
+      "position": "Extremo",
+      "nationality": "Peruano",
+      "teamId": 8,
+      "marketValue": 270000,
+      "contractUntil": "2025",
+      "goals": 16,
+      "assists": 14,
+      "matches": 32,
+      "photo": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTT9EiYjTXioQyCPzJc_p7EiouaRZ0ia3tQNBVezWsyL0DjBry21JtfSCjh-NE5y_55Z-_hRbUteYi0SOg",
+      "skills": {
+        "pace": 78,
+        "shooting": 92,
+        "passing": 94,
+        "dribbling": 96,
+        "defending": 35,
+        "physical": 65
+      },
+      "trophies": ["Copa del Mundo 2022", "Liga de Campeones", "Balón de Oro"],
+      "description": "Leyenda argentina considerado uno de los mejores jugadores de todos los tiempos."
     }
   ]
 }
